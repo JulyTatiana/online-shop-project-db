@@ -1,0 +1,16 @@
+[
+  {
+    "reviewId": 1,
+    "productId": 101,
+    "userId": 1,
+    "rating": 9,
+    "comment": "Excellent quality!"
+  },
+  {
+    "reviewId": 2,
+    "productId": 105,
+    "userId": 3,
+    "rating": 7,
+    "comment": "Good but packaging was damaged."
+  }
+]

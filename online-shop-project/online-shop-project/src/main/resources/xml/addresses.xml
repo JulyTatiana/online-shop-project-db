@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+    <address>
+        <address_id>1</address_id>
+        <street>Main Street 123</street>
+        <city>New York</city>
+        <country>USA</country>
+        <zip_code>10001</zip_code>
+        <user_id>1</user_id>
+    </address>
+    <address>
+        <address_id>2</address_id>
+        <street>Sunset Boulevard 55</street>
+        <city>Los Angeles</city>
+        <country>USA</country>
+        <zip_code>90001</zip_code>
+        <user_id>2</user_id>
+    </address>
+    <address>
+        <address_id>3</address_id>
+        <street>5th Avenue 999</street>
+        <city>Chicago</city>
+        <country>USA</country>
+        <zip_code>60601</zip_code>
+        <user_id>3</user_id>
+    </address>
+    <address>
+        <address_id>4</address_id>
+        <street>Calle 45 #12-34</street>
+        <city>Bogotá</city>
+        <country>Colombia</country>
+        <zip_code>110111</zip_code>
+        <user_id>4</user_id>
+    </address>
+    <address>
+        <address_id>5</address_id>
+        <street>Queen Street 77</street>
+        <city>Toronto</city>
+        <country>Canada</country>
+        <zip_code>M5V2B7</zip_code>
+        <user_id>5</user_id>
+    </address>
+</addresses>

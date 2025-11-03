@@ -1,0 +1,32 @@
+{
+  "discounts": [
+    {
+      "discount_id": 1,
+      "name": "WELCOME10",
+      "percentage": 10.0,
+      "description": "10% off for first-time customers",
+      "status": "ACTIVE"
+    },
+    {
+      "discount_id": 2,
+      "name": "BLACKFRIDAY",
+      "percentage": 25.0,
+      "description": "Limited-time Black Friday sale",
+      "status": "ACTIVE"
+    },
+    {
+      "discount_id": 3,
+      "name": "SUMMER15",
+      "percentage": 15.0,
+      "description": "Summer promotion for electronics",
+      "status": "EXPIRED"
+    },
+    {
+      "discount_id": 4,
+      "name": "VIP30",
+      "percentage": 30.0,
+      "description": "Exclusive VIP customer discount",
+      "status": "ACTIVE"
+    }
+  ]
+}

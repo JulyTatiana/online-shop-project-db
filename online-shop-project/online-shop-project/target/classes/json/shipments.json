@@ -1,0 +1,16 @@
+[
+  {
+    "shipmentId": 1,
+    "orderId": 1,
+    "trackingNumber": "TRACK123",
+    "carrier": "UPS",
+    "status": "IN_TRANSIT"
+  },
+  {
+    "shipmentId": 2,
+    "orderId": 2,
+    "trackingNumber": "TRACK456",
+    "carrier": "FedEx",
+    "status": "LABEL_CREATED"
+  }
+]

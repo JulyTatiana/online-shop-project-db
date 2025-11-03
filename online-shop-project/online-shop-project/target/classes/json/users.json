@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "name": "James Smith",
+      "username": "jamesmith",
+      "user_type": "Customer",
+      "priority": 2,
+      "discount_id": 1
+    },
+    {
+      "user_id": 2,
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "user_type": "Customer",
+      "priority": 2,
+      "discount_id": 1
+    },
+    {
+      "user_id": 3,
+      "name": "Bob Smith",
+      "username": "bobsmith",
+      "user_type": "VIP Customer",
+      "priority": 3,
+      "discount_id": 4
+    },
+    {
+      "user_id": 4,
+      "name": "Isabella Ramirez",
+      "username": "isabellar",
+      "user_type": "VIP Customer",
+      "priority": 3,
+      "discount_id": 4
+    },
+    {
+      "user_id": 5,
+      "name": "Charlie Admin",
+      "username": "charliea",
+      "user_type": "Admin",
+      "priority": 4,
+      "discount_id": null
+    },
+    {
+      "user_id": 6,
+      "name": "Thomas A",
+      "username": "thomasa",
+      "user_type": "Cashier",
+      "priority": 5,
+      "discount_id": null
+    }
+  ]
+}
