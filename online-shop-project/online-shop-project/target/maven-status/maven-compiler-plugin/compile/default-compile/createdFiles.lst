@@ -1,7 +1,0 @@
-com\online\shop\service\UserService.class
-com\online\shop\service\PaymentService.class
-com\online\shop\connection\ConnectionPool.class
-com\online\shop\Main.class
-com\online\shop\service\InventoryService.class
-com\online\shop\service\OrderService.class
-com\online\shop\service\ProductService.class
